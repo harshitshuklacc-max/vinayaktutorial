@@ -225,10 +225,9 @@ export function HomePage({ initialSection }: { initialSection?: 'about' | 'cours
               <div className="lg:col-span-6">
                 <div className="h-full min-h-[280px] rounded-xl overflow-hidden border border-slate-200 bg-white">
                   <img
-                    src="/src/assets/images/hero_classroom_anand_1794896106963.jpg"
-                    alt="Students studying at Vinayak Tutorial classroom in Anand"
-                    referrerPolicy="no-referrer"
-                    className="w-full h-full object-cover"
+                    src="/assets/aistudio/image_a5dd3d6f.png"
+                    alt="Students writing an exam in the classroom at Vinayak Tutorial, Anand"
+                    className="w-full h-full object-cover object-center"
                   />
                 </div>
               </div>
