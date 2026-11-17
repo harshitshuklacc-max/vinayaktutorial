@@ -1,0 +1,6 @@
+{
+  "name": "Vinayak Tutorial",
+  "description": "Coaching institute website and Student, Faculty & Admin management system for Vinayak Tutorial, Anand, Gujarat (Class 7–12 CBSE & GSEB).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
